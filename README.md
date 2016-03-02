@@ -2,9 +2,9 @@
 
 ### Screenshots
 
-![Screen Shot 1 ](https://raw.github.com/sivailango/ExpandableListView-RecylerChildItems/master/screenshots/Screenshot_2016-03-02-13-43-43.png)
+<img src="https://raw.github.com/sivailango/ExpandableListView-RecylerChildItems/master/screenshots/Screenshot_2016-03-02-13-43-43.png" width="320" alt="Screen shot 1">
 
-![Screen Shot 2 ](https://raw.github.com/sivailango/ExpandableListView-RecylerChildItems/master/screenshots/Screenshot_2016-03-02-13-43-53.png)
+<img src="https://raw.github.com/sivailango/ExpandableListView-RecylerChildItems/master/screenshots/Screenshot_2016-03-02-13-43-53.png" width="320" alt="Screen shot 1">
 
 #### item_parent.xml  
 
